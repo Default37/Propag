@@ -145,7 +145,7 @@ public class ViewPrincipal extends javax.swing.JFrame {
             }
         });
 
-        btnCancela.setBackground(new java.awt.Color(195, 195, 195));
+        btnCancela.setBackground(new java.awt.Color(255, 255, 255));
         btnCancela.setFont(new java.awt.Font("Tahoma", 1, 18)); // NOI18N
         btnCancela.setForeground(new java.awt.Color(88, 88, 88));
         btnCancela.setText("Sair");

@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ViewPrincipal",
+            "request": "launch",
+            "mainClass": "View.ViewPrincipal"
+        }
+    ]
+}
